@@ -1,9 +1,9 @@
-# -Power-BI-Dashboard-Company-Data-Analysis-using-Power-Bi.
+# Sales Analytics Dashboard for FY 2023–24 using Power BI
 This Power BI dashboard analyzes sales performance through key metrics like total sales, profit, and profit percentage, with deep insights by product, region, and payment mode.
 
 1. Project Title
 
-Sales Analytics Dashboard for FY 2024–25 using Power BI
+Sales Analytics Dashboard for FY 2023–24 using Power BI
 
 2. Goal of the Project
 
